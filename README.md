@@ -45,7 +45,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # Disney-web
 
 ![120066375-a7a0f080-c093-11eb-911d-b7f08415f4e2](https://github.com/Harsh90Prajapati/Disney-web/assets/91875052/0c41b601-46cb-4ecd-ac0f-e16ba249540e)
-#Home Page
+# Home Page
 
 ![120066550-bdfb7c00-c094-11eb-8b17-0829f336457b](https://github.com/Harsh90Prajapati/Disney-web/assets/91875052/603e5095-6c43-472f-9713-0a662befffcb)
 
